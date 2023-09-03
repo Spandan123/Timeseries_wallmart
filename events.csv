@@ -1,0 +1,21 @@
+,date,event_name_1,event_type_1
+0,2015-04-05,Easter,Cultural
+1,2015-04-11,Pesach End,Religious
+2,2015-04-12,OrthodoxEaster,Religious
+3,2015-05-05,Cinco De Mayo,Cultural
+4,2015-05-10,Mother's day,Cultural
+5,2015-05-25,MemorialDay,National
+6,2015-06-04,NBAFinalsStart,Sporting
+7,2015-06-16,NBAFinalsEnd,Sporting
+8,2015-06-18,Ramadan starts,Religious
+9,2015-06-21,Father's day,Cultural
+10,2016-03-27,Easter,Cultural
+11,2016-04-30,Pesach End,Religious
+12,2016-05-01,OrthodoxEaster,Religious
+13,2016-05-05,Cinco De Mayo,Cultural
+14,2016-05-08,Mother's day,Cultural
+15,2016-05-30,MemorialDay,National
+16,2016-06-02,NBAFinalsStart,Sporting
+17,2016-06-07,Ramadan starts,Religious
+18,2016-06-19,NBAFinalsEnd,Sporting
+19,2016-06-19,Father's day,Cultural
